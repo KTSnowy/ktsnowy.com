@@ -1,5 +1,5 @@
 <script>
-    const pStyles = "font-extralight text-neutral-400 text-2xl sm:text-3xl"
+    const pStyles = "font-light text-neutral-400 text-2xl sm:text-3xl"
 </script>
 
 <main class="container grid items-center h-screen mx-auto">
